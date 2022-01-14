@@ -1,0 +1,2 @@
+# Simplistic Bash Framework
+WIP
